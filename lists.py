@@ -34,14 +34,14 @@ class add_user:
 
 
 
-if __name__ == '__main__':
+#if __name__ == '__main__':
 
     #sriram = add_user('Sriram',0,29)
     #aneesh = add_user('Aneesh',30,59)
     #edgar = add_user('Edgar',60,89)
     #matt = add_user('Matt',90,119)
     #nanar = add_user('Nanar',120,149)
-    Jon = add_user('Jon',0,149)
+    #Jon = add_user('Jon',0,149)
 
 
     # Sriram 0 - 29 currently finished:
